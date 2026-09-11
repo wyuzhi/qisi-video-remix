@@ -124,7 +124,6 @@ references/delivery-guide.md   可读交付格式
 examples/creative-plan.md      完整展示示例
 ```
 
-此版本由 `plan-video-replication` 重新设计，移除了精准复刻模式、APP 专用 JSON 合同与校验器、服务端提示词拼装假设和内部发布流程。它不兼容原 APP 的 JSON 接口，适合直接在 Agent 对话中使用。
 
 ## 许可证
 
