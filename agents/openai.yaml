@@ -1,0 +1,4 @@
+interface:
+  display_name: "qisi 视频创意改编"
+  short_description: "从参考视频创作新故事，直接呈现完整剧本、分镜表和可复制的分段提示词"
+  default_prompt: "使用 $qisi-video-remix，把我提供的参考视频创意改编成新故事，直接展示剧本、分镜和分段生成提示词。"
